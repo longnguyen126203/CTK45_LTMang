@@ -1,0 +1,7 @@
+Z:\Lab2_2111860_NguyenHoangBaoLong\Server\bin\Debug\Server.exe.config
+Z:\Lab2_2111860_NguyenHoangBaoLong\Server\bin\Debug\Server.exe
+Z:\Lab2_2111860_NguyenHoangBaoLong\Server\bin\Debug\Server.pdb
+Z:\Lab2_2111860_NguyenHoangBaoLong\Server\obj\Debug\Server.csprojAssemblyReference.cache
+Z:\Lab2_2111860_NguyenHoangBaoLong\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+Z:\Lab2_2111860_NguyenHoangBaoLong\Server\obj\Debug\Server.exe
+Z:\Lab2_2111860_NguyenHoangBaoLong\Server\obj\Debug\Server.pdb

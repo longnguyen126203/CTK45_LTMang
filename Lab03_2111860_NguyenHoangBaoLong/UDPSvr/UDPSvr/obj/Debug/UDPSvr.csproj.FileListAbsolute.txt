@@ -1,0 +1,7 @@
+F:\Workspace\LTMang\Lab03_2111860_NguyenHoangBaoLong\UDPSvr\UDPSvr\bin\Debug\UDPSvr.exe.config
+F:\Workspace\LTMang\Lab03_2111860_NguyenHoangBaoLong\UDPSvr\UDPSvr\bin\Debug\UDPSvr.exe
+F:\Workspace\LTMang\Lab03_2111860_NguyenHoangBaoLong\UDPSvr\UDPSvr\bin\Debug\UDPSvr.pdb
+F:\Workspace\LTMang\Lab03_2111860_NguyenHoangBaoLong\UDPSvr\UDPSvr\obj\Debug\UDPSvr.csproj.AssemblyReference.cache
+F:\Workspace\LTMang\Lab03_2111860_NguyenHoangBaoLong\UDPSvr\UDPSvr\obj\Debug\UDPSvr.csproj.CoreCompileInputs.cache
+F:\Workspace\LTMang\Lab03_2111860_NguyenHoangBaoLong\UDPSvr\UDPSvr\obj\Debug\UDPSvr.exe
+F:\Workspace\LTMang\Lab03_2111860_NguyenHoangBaoLong\UDPSvr\UDPSvr\obj\Debug\UDPSvr.pdb

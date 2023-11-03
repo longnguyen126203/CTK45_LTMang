@@ -1,0 +1,6 @@
+Z:\Lab2_2111860_NguyenHoangBaoLong\Client\bin\Debug\Client.exe.config
+Z:\Lab2_2111860_NguyenHoangBaoLong\Client\bin\Debug\Client.exe
+Z:\Lab2_2111860_NguyenHoangBaoLong\Client\bin\Debug\Client.pdb
+Z:\Lab2_2111860_NguyenHoangBaoLong\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+Z:\Lab2_2111860_NguyenHoangBaoLong\Client\obj\Debug\Client.exe
+Z:\Lab2_2111860_NguyenHoangBaoLong\Client\obj\Debug\Client.pdb
